@@ -82,6 +82,11 @@ a:focus {
 	text-align: center
 }
 
+#calendar {
+  margin-bottom: 50px;
+  width: 100%;
+}
+
 /*	################################################################
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
