@@ -64,7 +64,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color:#01b2fe;
+  color:#5900b3;
 }
 
 ::-moz-selection  {
@@ -102,43 +102,43 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: #5900b3;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	color: #5900b3;
 	font-weight: 700;
 	font-size: 12px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: #00b3fe;
+	color: #a64dff;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #00b3fe;
+	color: #a64dff;
 	background-color: transparent;
 }
 
 .navbar-default {
-	background-color: #384452;
+	background-color: #ffffff;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: #384452;
+	background: #ffffff;
 }
 
 .dropdown-menu > li > a {
-	color: white;
+	color: #5900b3;
 	font-weight: 700;
 	font-size: 12px;
 }
 
 .btn-theme {
   color: #fff;
-  background-color: #384452;
-  border-color: #384452;
+  background-color: #5900b3;
+  border-color: #5900b3;
   margin: 4px;
 }
 .btn-theme:hover,
@@ -147,8 +147,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #00b3fe;
-  border-color: #00b3fe;
+  background-color: #a64dff;
+  border-color: #a64dff;
 }
 
 .dmbutton:hover,
@@ -198,7 +198,7 @@ a:focus {
 }
 
 .hline {
-	border-bottom: 2px solid #384452;
+	border-bottom: 2px solid #5900b3;
 }
 
 .hline-w {
@@ -210,7 +210,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: #00b3fe;
+	background-color: #5900b3;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
@@ -238,7 +238,7 @@ a:focus {
 }
 
 #service i {
-	color: #00b3fe;
+	color: #a64dff;
 	font-size: 60px;
 	padding: 15px;
 }
@@ -286,7 +286,7 @@ a:focus {
 {
 	height:100%;
 	width:100%;
-	background-color:#00b3fe;
+	background-color:#5900b3;
 	background-color:rgba(0,179,254,.9);
 	text-align:center;
 }
@@ -339,7 +339,7 @@ a:focus {
 #footerwrap {
 	padding-top: 20px;
 	padding-bottom: 60px;
-	background: #384452;
+	background: #5900b3;
 }
 
 #footerwrap p {
@@ -357,7 +357,7 @@ a:focus {
 }
 
 #footerwrap i:hover {
-	color: #00b3fe
+	color: #5900b3
 }
 
 /*	################################################################
@@ -366,7 +366,7 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #00b3fe;
+	background: #5900b3;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
@@ -379,7 +379,7 @@ a:focus {
 }
 
 .ctitle {
-	color: #00b3fe;
+	color: #5900b3;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -390,7 +390,7 @@ csmall {
 }
 csmall2 {
 	font-size: 12px;
-	color: #f39c12
+	color: #5900b3
 }
 
 .spacing {
@@ -399,7 +399,7 @@ csmall2 {
 }
 
 .badge-theme {
-	background: #00b3fe;
+	background: #a64dff;
 }
 
 /* Contact Page */
@@ -437,7 +437,7 @@ csmall2 {
 }
 .popular-posts li a,
 .popular-posts li a:hover {
-	color:#2f2f2f;
+	color:#5900b3;
 	text-decoration: none;
 	}
 
